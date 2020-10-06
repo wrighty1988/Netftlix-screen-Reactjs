@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.container{
+  display: inline-block;
+  width: 600px;
+  margin: 0 auto;
+
+}
+.button{
+  background-color: red;
+  padding: 10px 20px;
+  margin: 0 auto;
+  color: white;
+  text-decoration: none;
+}

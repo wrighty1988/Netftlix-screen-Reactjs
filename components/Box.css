@@ -1,0 +1,9 @@
+.box{
+    background-color: rgb(56, 56, 56);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
